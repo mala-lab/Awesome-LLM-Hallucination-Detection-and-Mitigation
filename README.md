@@ -13,6 +13,8 @@
 
 - [Niu2025] Robust Hallucination Detection in LLMs via Adaptive Token Selection in *Arxiv*, 2025.[\[paper\]](https://arxiv.org/abs/2504.07863)[\[code\]]()
 
+  [Wang2025]  Latent Space Chain-of-Embedding Enables Output-free LLM Self-Evaluation in *ICLR*, 2025.[\[paper\]](https://arxiv.org/abs/2410.13640)[\[code\]](https://github.com/Alsace08/Chain-of-Embedding) 
+
 ## Hallucination Mitigation 
 
 ### Model Calibration 
