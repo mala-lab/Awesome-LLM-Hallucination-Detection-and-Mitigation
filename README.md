@@ -5,6 +5,11 @@
 
 ## Hallucination Detection 
 
+### Fact-checking 
+
+### Uncertainty Analysis 
+
+# Consistency Measure 
 
 
 
