@@ -11,6 +11,8 @@
 
 ### Consistency Measure 
 
+- [Snyder2024] On Early Detection of Hallucinations in Factual Question Answering in *KDD*, 2024.[\[paper\]](https://arxiv.org/pdf/2312.14183)[\[code\]](https://github.com/amazon-science/llm-hallucinations-factual-qa) 
+
 - [Mündler2024] Self-Contradictory Hallucinations of LLMs: Evaluation, Detection and Mitigation in *ICLR*, 2024.[\[paper\]](https://arxiv.org/pdf/2305.15852)[\[code\]](https://chatprotect.ai/) 
 
 - [Niu2025] Robust Hallucination Detection in LLMs via Adaptive Token Selection in *Arxiv*, 2025.[\[paper\]](https://arxiv.org/abs/2504.07863)[\[code\]]()
