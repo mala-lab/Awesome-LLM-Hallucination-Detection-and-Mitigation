@@ -54,6 +54,8 @@
 
 # Related Survey 
 
+- [Wang2023] Survey on Factuality in Large Language Models: Knowledge, Retrieval and Domain-Specificity in *Arxiv*,2023. [\[paper\]](https://arxiv.org/abs/2310.07521) 
+  
 - [Ye2023] Cognitive Mirage: A Review of Hallucinations in Large Language Models  in *Arxiv*,2023. [\[paper\]](https://arxiv.org/abs/2309.06794v1) 
   
 - [Zhang2023] Siren's Song in the AI Ocean: A Survey on Hallucination in Large Language Models in *Arxiv*,2023. [\[paper\]](https://arxiv.org/abs/2309.01219)
