@@ -37,6 +37,8 @@
 
 - [Chuang2024] DoLa: Decoding by Contrasting Layers Improves Factuality in Large Language Models in *ICLR*, 2024. [\[paper\]](https://arxiv.org/abs/2309.03883)[\[code\]](https://github.com/voidism/DoLa)
 
+- [Kapoor2024] Calibration-Tuning: Teaching Large Language Models to Know What They Don’t Know in *UncertaiNLP*, 2024. [\[paper\]](https://aclanthology.org/2024.uncertainlp-1.1/)
+
 - [Zhou2025] HaDeMiF: Hallucination Detection and Mitigation in Large Language Models in *ICLR*, 2025. [\[paper\]](https://openreview.net/pdf?id=VwOYxPScxB)[\[code\]]()
 
 - [Zhang2025] The Law of Knowledge Overshadowing: Towards Understanding, Predicting, and Preventing LLM Hallucination in *ACL*, 2025. [\[paper\]](https://arxiv.org/abs/2502.16143)[\[code\]]()
