@@ -46,6 +46,8 @@
 
 ### External Knowledge 
 
+- [Ji2022] RHO (ρ): Reducing Hallucination in Open-domain Dialogues with Knowledge Grounding in *ACL findings*, 2022. [\[paper\]](https://arxiv.org/abs/2212.01588)
+
 - [Sun2025] Redeep: Detecting hallucination in retrieval-augmented generation via mechanistic interpretability  in *ICLR*, 2025. [\[paper\]](https://arxiv.org/pdf/2410.11414)[\[code\]](https://github.com/Jeryi-Sun/ReDEeP-ICLR)
 
 
