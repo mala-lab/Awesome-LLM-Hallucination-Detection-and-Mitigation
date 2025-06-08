@@ -60,7 +60,7 @@
 
 - [Huang2024] A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions in *TOIS*, 2024. [\[paper\]](https://arxiv.org/pdf/2410.11414)
 
-
+- [Ji2024] Survey of Hallucination in Natural Language Generation in *CSUR*, 2024.  [\[paper\]](https://arxiv.org/abs/2202.03629)
 
 
 
