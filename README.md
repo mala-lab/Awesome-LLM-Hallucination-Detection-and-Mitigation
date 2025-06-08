@@ -1,6 +1,12 @@
 # Awesome-LLM-Hallucination-Detection-and-Mitigation
 
 
+## Hallucinations Evaluation Benchmark 
+
+- [Ji2024] ANAH: Analytical Annotation of Hallucinations in Large Language Models in *ACL*, 2024. [\[paper\]](https://arxiv.org/abs/2405.20315)
+
+
+
 
 
 ## Hallucination Detection 
