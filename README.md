@@ -20,6 +20,9 @@
 ### Consistency Measure 
 
 
+- [Chen2023] Hallucination Detection: Robustly Discerning Reliable Answers in Large Language Models in *CIKM*, 2023. [\[paper\]](https://arxiv.org/abs/2407.04121)[\[code\]]() 
+
+
 - [Mündler2024] Self-Contradictory Hallucinations of LLMs: Evaluation, Detection and Mitigation in *ICLR*, 2024.[\[paper\]](https://arxiv.org/pdf/2305.15852)[\[code\]](https://chatprotect.ai/) 
 
 - [Niu2025] Robust Hallucination Detection in LLMs via Adaptive Token Selection in *Arxiv*, 2025.[\[paper\]](https://arxiv.org/abs/2504.07863)[\[code\]]()
