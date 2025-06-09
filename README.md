@@ -37,6 +37,8 @@
 
 ### Model Calibration 
 
+- [Li2023] Inference-Time Intervention: Eliciting Truthful Answers from a Language Model in *NeurIPS*, 2023. [\[paper\]](https://arxiv.org/abs/2306.03341)[\[code\]](https://github.com/likenneth/honest_llama)
+
 - [Liu2023] LitCab: Lightweight Language Model Calibration over Short- and Long-form Responses in *ICLR*,2023.  [\[paper\]](https://arxiv.org/abs/2310.19208)[\[code\]](https://github.com/launchnlp/LitCab)
 
 - [Ji2023] Towards Mitigating Hallucination in Large Language Models via Self-Reflection in *EMNLP findings*, 2023. [\[paper\]](https://arxiv.org/abs/2310.06271)
