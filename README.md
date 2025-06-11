@@ -31,8 +31,11 @@ We will continue to update this list with the latest resources. If you find any 
 
 - [Chen2024] FactCHD: Benchmarking Fact-Conficting Hallucination Detection in *IJCAI*, 2024. [\[paper\]](https://www.ijcai.org/proceedings/2024/0687.pdf)[\[code\]](https://github.com/zjunlp/FactCHD)  
   
-- [Zhang2024] KnowHalu: Hallucination Detection via Multi-Form Knowledge Based Factual Checking in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/pdf/2404.02935)[\[code\]](https://github.com/javyduck/KnowHalu)  
+- [Zhang2024] KnowHalu: Hallucination Detection via Multi-Form Knowledge-Based Factual Checking in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/pdf/2404.02935)[\[code\]](https://github.com/javyduck/KnowHalu)
 
+-  [Rawte2024] FACTOID: FACtual enTailment fOr hallucInation Detection in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2403.19113)[\[code\]]() 
+
+-  
 
 ### Uncertainty Analysis 
 
