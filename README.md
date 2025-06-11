@@ -67,6 +67,8 @@ We will continue to update this list with the latest resources. If you find any 
 
 - [Ji2023] Towards Mitigating Hallucination in Large Language Models via Self-Reflection in *EMNLP findings*, 2023. [\[paper\]](https://arxiv.org/abs/2310.06271)
 
+- [Campbell2023] Localizing Lying in Llama: Understanding Instructed Dishonesty on True-False Questions Through Prompting, Probing, and Patching in *Arxiv*, 2023. [\[paper\]](https://arxiv.org/pdf/2311.15131)
+
 - [Shi2023] Trusting Your Evidence: Hallucinate Less with Context-aware Decoding in *Arxiv*, 2023. [\[paper\]](https://arxiv.org/pdf/2305.14739)
 
 - [Chen2024] Truth Forest: Toward Multi-Scale Truthfulness in Large Language Models through Intervention without Tuning in *AAAI*,2024.  [\[paper\]](https://arxiv.org/abs/2312.17484)[\[code\]]()
