@@ -68,7 +68,7 @@
 
 - [Zhang2025] The Law of Knowledge Overshadowing: Towards Understanding, Predicting, and Preventing LLM Hallucination in *ACL*, 2025. [\[paper\]](https://arxiv.org/abs/2502.16143)[\[code\]]()
 
-
+- [Wu2025] Mitigating Hallucinations in Large Vision-Language Models via Entity-Centric Multimodal Preference Optimization in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2506.04039)[\[code\]](https://github.com/RobitsG/EMPO)
 
 
 ### External Knowledge 
@@ -77,6 +77,7 @@
 
 - [Sun2025] Redeep: Detecting hallucination in retrieval-augmented generation via mechanistic interpretability  in *ICLR*, 2025. [\[paper\]](https://arxiv.org/pdf/2410.11414)[\[code\]](https://github.com/Jeryi-Sun/ReDEeP-ICLR)
 
+- [Lavrinovics2025] MultiHal: Multilingual Dataset for Knowledge-Graph Grounded Evaluation of LLM Hallucinations in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2505.14101)[\[code\]](https://github.com/ernlavr/multihal)
 
 
 # Related Survey 
