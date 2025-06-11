@@ -16,6 +16,8 @@ We will continue to update this list with the latest resources. If you find any 
 ## Hallucinations Evaluation Benchmark 
 
 - [Li2023] HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models in *EMNLP*, 2023. [\[paper\]](https://arxiv.org/abs/2305.11747)
+
+- [Chen2024] FactCHD: Benchmarking Fact-Conficting Hallucination Detection in *IJCAI*, 2024. [\[paper\]](https://www.ijcai.org/proceedings/2024/0687.pdf)[\[code\]](https://github.com/zjunlp/FactCHD)  
   
 - [Ji2024] ANAH: Analytical Annotation of Hallucinations in Large Language Models in *ACL*, 2024. [\[paper\]](https://arxiv.org/abs/2405.20315)
 
@@ -26,6 +28,11 @@ We will continue to update this list with the latest resources. If you find any 
 ## Hallucination Detection 
 
 ### Fact-checking 
+
+- [Chen2024] FactCHD: Benchmarking Fact-Conficting Hallucination Detection in *IJCAI*, 2024. [\[paper\]](https://www.ijcai.org/proceedings/2024/0687.pdf)[\[code\]](https://github.com/zjunlp/FactCHD)  
+  
+- [Zhang2024] KnowHalu: Hallucination Detection via Multi-Form Knowledge Based Factual Checking in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/pdf/2404.02935)[\[code\]](https://github.com/javyduck/KnowHalu)  
+
 
 ### Uncertainty Analysis 
 
