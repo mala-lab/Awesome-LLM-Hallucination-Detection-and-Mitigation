@@ -15,7 +15,10 @@
 
 ### Uncertainty Analysis 
 
-- [Snyder2024] On Early Detection of Hallucinations in Factual Question Answering in *KDD*, 2024.[\[paper\]](https://arxiv.org/pdf/2312.14183)[\[code\]](https://github.com/amazon-science/llm-hallucinations-factual-qa) 
+- [Snyder2024] On Early Detection of Hallucinations in Factual Question Answering in *KDD*, 2024.[\[paper\]](https://arxiv.org/pdf/2312.14183)[\[code\]](https://github.com/amazon-science/llm-hallucinations-factual-qa)
+
+- [Chuang2024] Lookback Lens: Detecting and Mitigating Contextual Hallucinations in Large Language Models Using Only Attention Maps in *EMNLP*, 2024.  [\[paper\]](https://arxiv.org/abs/2407.07071)[\[code\]](https://github.com/voidism/Lookback-Lens)
+
 
 ### Consistency Measure 
 
