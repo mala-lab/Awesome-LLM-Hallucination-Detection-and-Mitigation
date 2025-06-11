@@ -1,6 +1,18 @@
 # Awesome-LLM-Hallucination-Detection-and-Mitigation
 
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
+![Stars](https://img.shields.io/github/stars/mala-lab/Awesome-LLM-Hallucination-Detection-and-Mitigation)
+[![Visits Badge](https://badges.pufler.dev/visits/mala-lab/Awesome-LLM-Hallucination-Detection-and-Mitigation)](https://badges.pufler.dev/visits/mala-lab/Awesome-LLM-Hallucination-Detection-and-Mitigation)
+
+
+A collection of papers on LLM hallucination evaluation benchmark, detection, and mitigation.
+
+We will continue to update this list with the latest resources. If you find any missed resources (paper/code) or errors, please **feel free to open an issue or make a pull request**.
+
+ 
+
 ## Hallucinations Evaluation Benchmark 
 
 - [Li2023] HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models in *EMNLP*, 2023. [\[paper\]](https://arxiv.org/abs/2305.11747)
