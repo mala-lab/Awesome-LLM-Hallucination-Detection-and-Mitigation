@@ -79,6 +79,8 @@
 
 - [Lavrinovics2025] MultiHal: Multilingual Dataset for Knowledge-Graph Grounded Evaluation of LLM Hallucinations in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2505.14101)[\[code\]](https://github.com/ernlavr/multihal)
 
+- [Sui2025] Bridging External and Parametric Knowledge: Mitigating Hallucination of LLMs with Shared-Private Semantic Synergy in Dual-Stream Knowledge in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/pdf/2506.06240)[\[code\]]()
+
 
 # Related Survey 
 
