@@ -58,9 +58,13 @@
 
 - [Kapoor2024] Calibration-Tuning: Teaching Large Language Models to Know What They Don’t Know in *UncertaiNLP*, 2024. [\[paper\]](https://aclanthology.org/2024.uncertainlp-1.1/)
 
+- [Zhang2024] TruthX: Alleviating Hallucinations by Editing Large Language Models in Truthful Space in *ACL*, 2024. [\[paper\]](https://arxiv.org/abs/2402.17811)[\[code\]](https://ictnlp.github.io/TruthX-site/)
+
 - [Zhou2025] HaDeMiF: Hallucination Detection and Mitigation in Large Language Models in *ICLR*, 2025. [\[paper\]](https://openreview.net/pdf?id=VwOYxPScxB)[\[code\]]()
 
 - [Zhang2025] The Law of Knowledge Overshadowing: Towards Understanding, Predicting, and Preventing LLM Hallucination in *ACL*, 2025. [\[paper\]](https://arxiv.org/abs/2502.16143)[\[code\]]()
+
+
 
 
 ### External Knowledge 
@@ -68,10 +72,6 @@
 - [Ji2022] RHO (ρ): Reducing Hallucination in Open-domain Dialogues with Knowledge Grounding in *ACL findings*, 2022. [\[paper\]](https://arxiv.org/abs/2212.01588)
 
 - [Sun2025] Redeep: Detecting hallucination in retrieval-augmented generation via mechanistic interpretability  in *ICLR*, 2025. [\[paper\]](https://arxiv.org/pdf/2410.11414)[\[code\]](https://github.com/Jeryi-Sun/ReDEeP-ICLR)
-
-
-
-
 
 
 
