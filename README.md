@@ -52,6 +52,10 @@
 
 - [Ji2023] Towards Mitigating Hallucination in Large Language Models via Self-Reflection in *EMNLP findings*, 2023. [\[paper\]](https://arxiv.org/abs/2310.06271)
 
+- [Shi2023] Trusting Your Evidence: Hallucinate Less with Context-aware Decoding in *Arxiv*, 2023. [\[paper\]](https://arxiv.org/pdf/2305.14739)
+
+- [Chen2024] Truth Forest: Toward Multi-Scale Truthfulness in Large Language Models through Intervention without Tuning in *AAAI*,2024.  [\[paper\]](https://arxiv.org/abs/2312.17484)[\[code\]]()
+
 - [Zhang2024] R-Tuning: Instructing Large Language Models to Say `I Don't Know' in *NAACL*,  2023.  [\[paper\]](https://arxiv.org/abs/2311.09677)[\[code\]](https://github.com/shizhediao/R-Tuning)
 
 - [Chuang2024] DoLa: Decoding by Contrasting Layers Improves Factuality in Large Language Models in *ICLR*, 2024. [\[paper\]](https://arxiv.org/abs/2309.03883)[\[code\]](https://github.com/voidism/DoLa)
