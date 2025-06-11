@@ -21,6 +21,7 @@
 
 - [Chuang2024] Lookback Lens: Detecting and Mitigating Contextual Hallucinations in Large Language Models Using Only Attention Maps in *EMNLP*, 2024.  [\[paper\]](https://arxiv.org/abs/2407.07071)[\[code\]](https://github.com/voidism/Lookback-Lens)
 
+- [Bouchard2025] Uncertainty Quantification for Language Models: A Suite of Black-Box, White-Box, LLM Judge, and Ensemble Scorers in *Arxiv*, 2025. \[paper\]](https://arxiv.org/abs/2504.19254)[\[code\]](https://github.com/cvs-health/uqlm)
 
 ### Consistency Measure 
 
