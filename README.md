@@ -3,6 +3,8 @@
 
 ## Hallucinations Evaluation Benchmark 
 
+- [Li2023] HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models in *EMNLP*, 2023. [\[paper\]](https://arxiv.org/abs/2305.11747)
+  
 - [Ji2024] ANAH: Analytical Annotation of Hallucinations in Large Language Models in *ACL*, 2024. [\[paper\]](https://arxiv.org/abs/2405.20315)
 
 
