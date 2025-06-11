@@ -35,8 +35,6 @@ We will continue to update this list with the latest resources. If you find any 
 
 -  [Rawte2024] FACTOID: FACtual enTailment fOr hallucInation Detection in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2403.19113)[\[code\]]() 
 
--  
-
 ### Uncertainty Analysis 
 
 - [Snyder2024] On Early Detection of Hallucinations in Factual Question Answering in *KDD*, 2024.[\[paper\]](https://arxiv.org/pdf/2312.14183)[\[code\]](https://github.com/amazon-science/llm-hallucinations-factual-qa)
