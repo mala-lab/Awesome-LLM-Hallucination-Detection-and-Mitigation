@@ -7,7 +7,7 @@
   
 - [Ji2024] ANAH: Analytical Annotation of Hallucinations in Large Language Models in *ACL*, 2024. [\[paper\]](https://arxiv.org/abs/2405.20315)
 
-
+- [Simhi2024] Constructing Benchmarks and Interventions for Combating Hallucinations in LLMs in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2404.09971)[\[code\]](https://github.com/technion-cs-nlp/hallucination-mitigation)  
 
 
 
