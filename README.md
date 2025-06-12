@@ -56,9 +56,9 @@ We will continue to update this list with the latest resources. If you find any 
 
 - [Niu2025] Robust Hallucination Detection in LLMs via Adaptive Token Selection in *Arxiv*, 2025.[\[paper\]](https://arxiv.org/abs/2504.07863)[\[code\]]()
 
-- [Wang2025]  Latent Space Chain-of-Embedding Enables Output-free LLM Self-Evaluation in *ICLR*, 2025.[\[paper\]](https://arxiv.org/abs/2410.13640)[\[code\]](https://github.com/Alsace08/Chain-of-Embedding) 
+- [Wang2025]  Latent Space Chain-of-Embedding Enables Output-free LLM Self-Evaluation in *ICLR*, 2025. [\[paper\]](https://arxiv.org/abs/2410.13640)[\[code\]](https://github.com/Alsace08/Chain-of-Embedding) 
 
-
+- [Sun2025] Why and How LLMs Hallucinate: Connecting the Dots with Subsequence Associations in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2504.12691)[\[code\]](https://github.com/sunyiyou/SAT) 
 
 
 ## Hallucination Mitigation 
