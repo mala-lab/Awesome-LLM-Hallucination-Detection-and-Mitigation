@@ -18,6 +18,8 @@ We will continue to update this list with the latest resources. If you find any 
 - [Li2023] HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models in *EMNLP*, 2023. [\[paper\]](https://arxiv.org/abs/2305.11747)
 
 - [Chen2024] FactCHD: Benchmarking Fact-Conficting Hallucination Detection in *IJCAI*, 2024. [\[paper\]](https://www.ijcai.org/proceedings/2024/0687.pdf)[\[code\]](https://github.com/zjunlp/FactCHD)  
+
+- [Su2024] Unsupervised Real-Time Hallucination Detection based on the Internal States of Large Language Models in *Arxiv*, 2024.[\[paper\]](https://arxiv.org/pdf/2403.06448)[\[code\]](https://github.com/oneal2000/MIND/tree/main) 
   
 - [Ji2024] ANAH: Analytical Annotation of Hallucinations in Large Language Models in *ACL*, 2024. [\[paper\]](https://arxiv.org/abs/2405.20315)
 
@@ -48,12 +50,16 @@ We will continue to update this list with the latest resources. If you find any 
 
 - [Chen2023] Hallucination Detection: Robustly Discerning Reliable Answers in Large Language Models in *CIKM*, 2023. [\[paper\]](https://arxiv.org/abs/2407.04121)[\[code\]]() 
 
+- [Su2024] Unsupervised Real-Time Hallucination Detection based on the Internal States of Large Language Models in *Arxiv*, 2024.[\[paper\]](https://arxiv.org/pdf/2403.06448)[\[code\]](https://github.com/oneal2000/MIND/tree/main) 
 
 - [Mündler2024] Self-Contradictory Hallucinations of LLMs: Evaluation, Detection and Mitigation in *ICLR*, 2024.[\[paper\]](https://arxiv.org/pdf/2305.15852)[\[code\]](https://chatprotect.ai/) 
 
 - [Niu2025] Robust Hallucination Detection in LLMs via Adaptive Token Selection in *Arxiv*, 2025.[\[paper\]](https://arxiv.org/abs/2504.07863)[\[code\]]()
 
 - [Wang2025]  Latent Space Chain-of-Embedding Enables Output-free LLM Self-Evaluation in *ICLR*, 2025.[\[paper\]](https://arxiv.org/abs/2410.13640)[\[code\]](https://github.com/Alsace08/Chain-of-Embedding) 
+
+
+
 
 ## Hallucination Mitigation 
 
