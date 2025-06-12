@@ -43,6 +43,8 @@ We will continue to update this list with the latest resources. If you find any 
 
 - [Chuang2024] Lookback Lens: Detecting and Mitigating Contextual Hallucinations in Large Language Models Using Only Attention Maps in *EMNLP*, 2024.  [\[paper\]](https://arxiv.org/abs/2407.07071)[\[code\]](https://github.com/voidism/Lookback-Lens)
 
+- [Ji2024]  LLM Internal States Reveal Hallucination Risk Faced With a Query in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/pdf/2407.03282)[\[code\]](https://github.com/ziweiji/Internal_States_Reveal_Hallucination)
+
 - [Bouchard2025] Uncertainty Quantification for Language Models: A Suite of Black-Box, White-Box, LLM Judge, and Ensemble Scorers in *Arxiv*, 2025. \[paper\]](https://arxiv.org/abs/2504.19254)[\[code\]](https://github.com/cvs-health/uqlm)
 
 ### Consistency Measure 
