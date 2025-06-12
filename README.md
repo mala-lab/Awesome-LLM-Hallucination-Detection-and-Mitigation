@@ -62,6 +62,8 @@ We will continue to update this list with the latest resources. If you find any 
 
 - [Sun2025] Why and How LLMs Hallucinate: Connecting the Dots with Subsequence Associations in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2504.12691)[\[code\]](https://github.com/sunyiyou/SAT) 
 
+- [Islam2025] How Much Do LLMs Hallucinate across Languages? On Multilingual Estimation of LLM Hallucination in the Wild in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/pdf/2502.12769)[\[code\]]() 
+
 
 ## Hallucination Mitigation 
 
