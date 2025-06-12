@@ -1,4 +1,4 @@
-# Awesome-LLM-Hallucination-Detection-and-Mitigation
+ # Awesome-LLM-Hallucination-Detection-and-Mitigation
 
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
@@ -107,6 +107,9 @@ We will continue to update this list with the latest resources. If you find any 
 - [Lavrinovics2025] MultiHal: Multilingual Dataset for Knowledge-Graph Grounded Evaluation of LLM Hallucinations in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2505.14101)[\[code\]](https://github.com/ernlavr/multihal)
 
 - [Sui2025] Bridging External and Parametric Knowledge: Mitigating Hallucination of LLMs with Shared-Private Semantic Synergy in Dual-Stream Knowledge in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/pdf/2506.06240)[\[code\]]()
+
+- [Ferrando2025]  Do I Know This Entity? Knowledge Awareness and Hallucinations in Language Models in *ICLR*, 2025.  [\[paper\]](https://arxiv.org/abs/2411.14257)[\[code\]](https://github.com/javiferran/sae_entities)
+
 
 
 # Related Survey 
