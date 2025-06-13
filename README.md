@@ -70,7 +70,9 @@ We will continue to update this list with the latest resources. If you find any 
 
 - [Su2024] Unsupervised Real-Time Hallucination Detection based on the Internal States of Large Language Models in *Arxiv*, 2024.[\[paper\]](https://arxiv.org/pdf/2403.06448)[\[code\]](https://github.com/oneal2000/MIND/tree/main) 
 
-- [Mündler2024] Self-Contradictory Hallucinations of LLMs: Evaluation, Detection and Mitigation in *ICLR*, 2024.[\[paper\]](https://arxiv.org/pdf/2305.15852)[\[code\]](https://chatprotect.ai/) 
+- [Mündler2024] Self-Contradictory Hallucinations of LLMs: Evaluation, Detection and Mitigation in *ICLR*, 2024.[\[paper\]](https://arxiv.org/pdf/2305.15852)[\[code\]](https://chatprotect.ai/)
+
+- [Chen2024] INSIDE: LLMs' Internal States Retain the Power of Hallucination Detection in *ICLR*, 2024. [\[paper\]](https://arxiv.org/abs/2402.03744)[\[code\]](https://github.com/D2I-ai/eigenscore)
 
 - [Xu2024] Hallucination is Inevitable:An Innate Limitation of Large Language Models in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/pdf/2401.11817)[\[code\]]() 
 
