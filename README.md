@@ -39,6 +39,8 @@ We will continue to update this list with the latest resources. If you find any 
 
 -  [Es2024] RAGAs: Automated evaluation of retrieval augmented generation in *EACL*, 2024. [\[paper\]](https://aclanthology.org/2024.eacl-demo.16.pdf)[\[code\]](https://github.com/explodinggradients/ragas) 
 
+- [Hu2024]  RefChecker: Reference-based Fine-grained Hallucination Checker and Benchmark for Large Language Models in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2405.14486)[\[code\]](https://github.com/amazon-science/RefChecker) 
+
 
 ### Uncertainty Analysis 
 
