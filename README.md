@@ -51,6 +51,7 @@ We will continue to update this list with the latest resources. If you find any 
 
 ### Consistency Measure 
 
+- [Manakul] SelfCheckGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models in *EMNLP*, 2023. [\[paper\]](https://arxiv.org/abs/2303.08896)[\[code\]](https://github.com/potsawee/selfcheckgpt) 
 
 - [Chen2023] Hallucination Detection: Robustly Discerning Reliable Answers in Large Language Models in *CIKM*, 2023. [\[paper\]](https://arxiv.org/abs/2407.04121)[\[code\]]() 
 
