@@ -37,6 +37,9 @@ We will continue to update this list with the latest resources. If you find any 
 
 -  [Rawte2024] FACTOID: FACtual enTailment fOr hallucInation Detection in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2403.19113)[\[code\]]() 
 
+-  [Es2024] RAGAs: Automated evaluation of retrieval augmented generation in *EACL*, 2024. [\[paper\]](https://aclanthology.org/2024.eacl-demo.16.pdf)[\[code\]](https://github.com/explodinggradients/ragas) 
+
+
 ### Uncertainty Analysis 
 
 - [Zhang2023] Enhancing Uncertainty-Based Hallucination Detection with Stronger Focus in *EMNLP*, 2023. [\[paper\]](https://aclanthology.org/2023.emnlp-main.58v2.pdf)[\[code\]](https://github.com/zthang/focus) 
