@@ -48,7 +48,7 @@ We will continue to update this list with the latest resources. If you find any 
 
 ### Uncertainty Analysis 
 
-- [Azaria] The internal state of an llm knows when it’s lying in *EMNLP findings*, 2023.  [\[paper\]](https://aclanthology.org/2023.findings-emnlp.68.pdf)[\[code\]](https://github.com/zthang/focus) 
+- [Azaria2023] The internal state of an llm knows when it’s lying in *EMNLP findings*, 2023.  [\[paper\]](https://aclanthology.org/2023.findings-emnlp.68.pdf)[\[code\]](https://github.com/zthang/focus) 
 
 - [Zhang2023] Enhancing Uncertainty-Based Hallucination Detection with Stronger Focus in *EMNLP*, 2023. [\[paper\]](https://aclanthology.org/2023.emnlp-main.58v2.pdf)[\[code\]](https://github.com/zthang/focus) 
 
