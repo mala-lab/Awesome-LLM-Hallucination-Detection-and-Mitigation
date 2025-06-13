@@ -31,6 +31,8 @@ We will continue to update this list with the latest resources. If you find any 
 
 ### Fact-checking 
 
+- [Niu2024] RAGTruth: A Hallucination Corpus for Developing Trustworthy Retrieval-Augmented Language Models in *ACL*, 2024.  [\[paper\]](https://aclanthology.org/2024.acl-long.585.pdf)[\[code\]](https://github.com/ParticleMedia/RAGTruth)  
+
 - [Chen2024] FactCHD: Benchmarking Fact-Conficting Hallucination Detection in *IJCAI*, 2024. [\[paper\]](https://www.ijcai.org/proceedings/2024/0687.pdf)[\[code\]](https://github.com/zjunlp/FactCHD)  
   
 - [Zhang2024] KnowHalu: Hallucination Detection via Multi-Form Knowledge-Based Factual Checking in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/pdf/2404.02935)[\[code\]](https://github.com/javyduck/KnowHalu)
