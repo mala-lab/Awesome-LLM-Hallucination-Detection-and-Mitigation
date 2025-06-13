@@ -138,6 +138,8 @@ We will continue to update this list with the latest resources. If you find any 
   
 - [Zhang2023] Siren's Song in the AI Ocean: A Survey on Hallucination in Large Language Models in *Arxiv*,2023. [\[paper\]](https://arxiv.org/abs/2309.01219)
 
+- [Gao2023] Retrieval-augmented generation for large language models: A survey in *Arxiv*, 2023. [\[paper\]](https://arxiv.org/pdf/2312.10997)
+
 - [Huang2024] A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions in *TOIS*, 2024. [\[paper\]](https://arxiv.org/pdf/2410.11414)
 
 - [Ji2024] Survey of Hallucination in Natural Language Generation in *CSUR*, 2024.  [\[paper\]](https://arxiv.org/abs/2202.03629)
