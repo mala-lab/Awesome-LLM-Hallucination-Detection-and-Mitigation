@@ -157,6 +157,6 @@ We will continue to update this list with the latest resources. If you find any 
 
 - [Ji2024] Survey of Hallucination in Natural Language Generation in *CSUR*, 2024.  [\[paper\]](https://arxiv.org/abs/2202.03629)
 
-
+- [Bai2024] Hallucination of Multimodal Large Language Models: A Survey in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2404.18930)
 
 
