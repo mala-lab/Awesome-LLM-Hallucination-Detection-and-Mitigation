@@ -86,6 +86,9 @@ We will continue to update this list with the latest resources. If you find any 
 
 - [Islam2025] How Much Do LLMs Hallucinate across Languages? On Multilingual Estimation of LLM Hallucination in the Wild in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/pdf/2502.12769)[\[code\]]() 
 
+- [Muhammed2025] SelfCheckAgent: Zero-Resource Hallucination Detection in Generative Large Language Models in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/pdf/2502.01812)[\[code\]](https://github.com/potsawee/selfcheckgpt) 
+
+
 
 ## Hallucination Mitigation 
 
