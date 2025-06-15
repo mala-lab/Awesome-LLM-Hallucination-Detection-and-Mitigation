@@ -124,6 +124,8 @@ We will continue to update this list with the latest resources. If you find any 
 
 - [Ji2022] RHO (ρ): Reducing Hallucination in Open-domain Dialogues with Knowledge Grounding in *ACL findings*, 2022. [\[paper\]](https://arxiv.org/abs/2212.01588)
 
+- [Gekhman2024] Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations? in *EMNLP*, 2024. [\[paper\]](https://arxiv.org/pdf/2405.05904)
+  
 - [Sun2025] Redeep: Detecting hallucination in retrieval-augmented generation via mechanistic interpretability  in *ICLR*, 2025. [\[paper\]](https://arxiv.org/pdf/2410.11414)[\[code\]](https://github.com/Jeryi-Sun/ReDEeP-ICLR)
 
 - [Dey2025] Uncertainty-Aware Fusion: An Ensemble Framework for Mitigating Hallucinations in Large Language Models in *WebConf*, 2025. [\[paper\]](https://arxiv.org/abs/2503.05757)[\[code\]]()
