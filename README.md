@@ -148,6 +148,9 @@ We will continue to update this list with the latest resources. If you find any 
 
 - [Yang2025] Mitigating Hallucinations in Large Vision-Language Models via DPO: On-Policy Data Hold the Key in *CVPR*, 2025.  [\[paper\]](https://arxiv.org/abs/2501.09695)[\[code\]](https://github.com/zhyang2226/OPA-DPO)
 
+- [Gu2025] Mask-DPO: Generalizable Fine-grained Factuality Alignment of LLMs in *ICLR*, 2025. [\[paper\]](https://arxiv.org/abs/2503.02846)[\[code\]](https://github.com/open-compass/ANAH)
+
+
 
 # Related Survey 
 
