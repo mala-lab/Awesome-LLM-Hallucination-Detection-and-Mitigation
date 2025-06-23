@@ -142,7 +142,7 @@ We will continue to update this list with the latest resources. If you find any 
 - [Ferrando2025]  Do I Know This Entity? Knowledge Awareness and Hallucinations in Language Models in *ICLR*, 2025.  [\[paper\]](https://arxiv.org/abs/2411.14257)[\[code\]](https://github.com/javiferran/sae_entities)
 
 
-### Post-Optimization
+### Alignment-Fine tuning
 
 - [Yang2024] V-DPO: Mitigating Hallucination in Large Vision Language Models via Vision-Guided Direct Preference Optimization in *EMNLP Findings*, 2024. [\[paper\]](https://arxiv.org/abs/2411.02712)[\[code\]](https://github.com/YuxiXie/V-DPO)
 
