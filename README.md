@@ -144,6 +144,8 @@ We will continue to update this list with the latest resources. If you find any 
 
 ### Alignment-Fine tuning
 
+- [Lin2024] FLAME: Factuality-Aware Alignment for Large Language Models in *NeurIPS*, 2024.[\[paper\]](https://arxiv.org/abs/2405.01525)
+
 - [Yang2024] V-DPO: Mitigating Hallucination in Large Vision Language Models via Vision-Guided Direct Preference Optimization in *EMNLP Findings*, 2024. [\[paper\]](https://arxiv.org/abs/2411.02712)[\[code\]](https://github.com/YuxiXie/V-DPO)
 
 - [Yang2025] Mitigating Hallucinations in Large Vision-Language Models via DPO: On-Policy Data Hold the Key in *CVPR*, 2025.  [\[paper\]](https://arxiv.org/abs/2501.09695)[\[code\]](https://github.com/zhyang2226/OPA-DPO)
