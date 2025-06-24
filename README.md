@@ -144,7 +144,9 @@ We will continue to update this list with the latest resources. If you find any 
 
 ### Alignment-Fine tuning
 
-- [Tian] Fine-tuning Language Models for Factuality in *ICLR*, 2024. [\[paper\]](https://arxiv.org/abs/2311.08401)[\[code\]](https://github.com/kttian/llm_factuality_tuning)
+- [Lee2022] Factuality Enhanced Language Models for Open-Ended Text Generation in *NeurIPS*, 2022. [\[paper\]](https://arxiv.org/abs/2206.04624)[\[code\]](https://github.com/nayeon7lee/FactualityPrompt)
+
+- [Tian2023] Fine-tuning Language Models for Factuality in *ICLR*, 2023. [\[paper\]](https://arxiv.org/abs/2311.08401)[\[code\]](https://github.com/kttian/llm_factuality_tuning)
 
 - [Lin2024] FLAME: Factuality-Aware Alignment for Large Language Models in *NeurIPS*, 2024.[\[paper\]](https://arxiv.org/abs/2405.01525)
 
