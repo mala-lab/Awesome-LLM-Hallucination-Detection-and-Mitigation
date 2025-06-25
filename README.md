@@ -104,6 +104,8 @@ We will continue to update this list with the latest resources. If you find any 
 
 - [Campbell2023] Localizing Lying in Llama: Understanding Instructed Dishonesty on True-False Questions Through Prompting, Probing, and Patching in *Arxiv*, 2023. [\[paper\]](https://arxiv.org/pdf/2311.15131)
 
+- [Wan2023] Faithfulness-Aware Decoding Strategies for Abstractive Summarization in *EACL*, 2023.  [\[paper\]](https://aclanthology.org/2023.eacl-main.210.pdf)[\[code\]](https://github.com/amazon-science/faithful-summarization-generation)
+
 - [Shi2023] Trusting Your Evidence: Hallucinate Less with Context-aware Decoding in *Arxiv*, 2023. [\[paper\]](https://arxiv.org/pdf/2305.14739)
 
 - [Chen2024] Truth Forest: Toward Multi-Scale Truthfulness in Large Language Models through Intervention without Tuning in *AAAI*,2024.  [\[paper\]](https://arxiv.org/abs/2312.17484)[\[code\]]()
@@ -121,6 +123,8 @@ We will continue to update this list with the latest resources. If you find any 
 - [Zhang2025] The Law of Knowledge Overshadowing: Towards Understanding, Predicting, and Preventing LLM Hallucination in *ACL*, 2025. [\[paper\]](https://arxiv.org/abs/2502.16143)[\[code\]]()
 
 - [Wu2025] Mitigating Hallucinations in Large Vision-Language Models via Entity-Centric Multimodal Preference Optimization in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2506.04039)[\[code\]](https://github.com/RobitsG/EMPO)
+
+- [Cheng2024]  Integrative Decoding: Improving Factuality via Implicit Self-consistency in *ICLR*, 2025. [\[paper\]](https://openreview.net/pdf?id=gGWYecsK1U)[\[code\]](https://github.com/YiCheng98/IntegrativeDecoding) 
 
 
 ### External Knowledge 
