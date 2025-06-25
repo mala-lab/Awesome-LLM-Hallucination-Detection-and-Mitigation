@@ -102,6 +102,8 @@ We will continue to update this list with the latest resources. If you find any 
 
 - [Ji2023] Towards Mitigating Hallucination in Large Language Models via Self-Reflection in *EMNLP findings*, 2023. [\[paper\]](https://arxiv.org/abs/2310.06271)
 
+- [Chen2023] PURR: Efficiently Editing Language Model Hallucinations by Denoising Language Model Corruptions in *Arxiv*, 2023 [\[paper\]](https://arxiv.org/pdf/2305.14908)
+
 - [Campbell2023] Localizing Lying in Llama: Understanding Instructed Dishonesty on True-False Questions Through Prompting, Probing, and Patching in *Arxiv*, 2023. [\[paper\]](https://arxiv.org/pdf/2311.15131)
 
 - [Wan2023] Faithfulness-Aware Decoding Strategies for Abstractive Summarization in *EACL*, 2023.  [\[paper\]](https://aclanthology.org/2023.eacl-main.210.pdf)[\[code\]](https://github.com/amazon-science/faithful-summarization-generation)
