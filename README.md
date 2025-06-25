@@ -28,8 +28,9 @@ We will continue to update this list with the latest resources. If you find any 
 
 ## Causes of Hallucination 
 
+- [Li2024] The Dawn After the Dark: An Empirical Study on Factuality Hallucination in Large Language Models in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2401.03205)[\[code\]](https://github.com/RUCAIBox/HaluEval-2.0)  
 
-- [Liu2025] More Thinking, Less Seeing? Assessing Amplified Hallucination in Multimodal Reasoning Models in *Arxiv*, 2025[\[paper\]](http://arxiv.org/pdf/2505.21523)[\[code\]](https://github.com/MLRM-Halu/MLRM-Halu)  
+- [Liu2025] More Thinking, Less Seeing? Assessing Amplified Hallucination in Multimodal Reasoning Models in *Arxiv*, 2025. [\[paper\]](http://arxiv.org/pdf/2505.21523)[\[code\]](https://github.com/MLRM-Halu/MLRM-Halu)  
 
 
 
