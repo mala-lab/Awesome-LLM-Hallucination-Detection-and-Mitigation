@@ -26,6 +26,12 @@ We will continue to update this list with the latest resources. If you find any 
 - [Simhi2024] Constructing Benchmarks and Interventions for Combating Hallucinations in LLMs in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2404.09971)[\[code\]](https://github.com/technion-cs-nlp/hallucination-mitigation)  
 
 
+## Causes of Hallucination 
+
+
+- [Liu2025] More Thinking, Less Seeing? Assessing Amplified Hallucination in Multimodal Reasoning Models in *Arxiv*, 2025[\[paper\]](http://arxiv.org/pdf/2505.21523)[\[code\]](https://github.com/MLRM-Halu/MLRM-Halu)  
+
+
 
 ## Hallucination Detection 
 
