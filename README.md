@@ -152,6 +152,8 @@ We will continue to update this list with the latest resources. If you find any 
 
 - [Yang2024] V-DPO: Mitigating Hallucination in Large Vision Language Models via Vision-Guided Direct Preference Optimization in *EMNLP Findings*, 2024. [\[paper\]](https://arxiv.org/abs/2411.02712)[\[code\]](https://github.com/YuxiXie/V-DPO)
 
+- [Kang2024] Unfamiliar finetuning examples control how language in *NAACL*, 2024. [\[paper\]](https://arxiv.org/pdf/2403.05612)[\[code\]](https://github.com/katiekang1998/llm_hallucinations)
+
 - [Yang2025] Mitigating Hallucinations in Large Vision-Language Models via DPO: On-Policy Data Hold the Key in *CVPR*, 2025.  [\[paper\]](https://arxiv.org/abs/2501.09695)[\[code\]](https://github.com/zhyang2226/OPA-DPO)
 
 - [Gu2025] Mask-DPO: Generalizable Fine-grained Factuality Alignment of LLMs in *ICLR*, 2025. [\[paper\]](https://arxiv.org/abs/2503.02846)[\[code\]](https://github.com/open-compass/ANAH)
