@@ -133,7 +133,9 @@ We will continue to update this list with the latest resources. If you find any 
 
 - [Wu2025] Mitigating Hallucinations in Large Vision-Language Models via Entity-Centric Multimodal Preference Optimization in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2506.04039)[\[code\]](https://github.com/RobitsG/EMPO)
 
-- [Cheng2024]  Integrative Decoding: Improving Factuality via Implicit Self-consistency in *ICLR*, 2025. [\[paper\]](https://openreview.net/pdf?id=gGWYecsK1U)[\[code\]](https://github.com/YiCheng98/IntegrativeDecoding) 
+- [Cheng2025]  Integrative Decoding: Improving Factuality via Implicit Self-consistency in *ICLR*, 2025. [\[paper\]](https://openreview.net/pdf?id=gGWYecsK1U)[\[code\]](https://github.com/YiCheng98/IntegrativeDecoding) 
+
+- [Yang2025] Nullu: Mitigating Object Hallucinations in Large Vision-Language Models via HalluSpace Projection in *CVPR*, 2025. [\[paper\]](https://arxiv.org/abs/2412.13817)[\[code\]](https://github.com/Ziwei-Zheng/Nullu) 
 
 
 ### External Knowledge 
