@@ -137,6 +137,8 @@ We will continue to update this list with the latest resources. If you find any 
 
 - [Yang2025] Nullu: Mitigating Object Hallucinations in Large Vision-Language Models via HalluSpace Projection in *CVPR*, 2025. [\[paper\]](https://arxiv.org/abs/2412.13817)[\[code\]](https://github.com/Ziwei-Zheng/Nullu) 
 
+- [Wan2025] ONLY:One-Layer Intervention Sufficiently Mitigates Hallucinations in Large Vison-Language Model in *ICCV*, 2025. [\[paper\]]()[\[code\]]() 
+
 
 ### External Knowledge 
 
