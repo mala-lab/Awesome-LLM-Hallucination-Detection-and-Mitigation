@@ -159,6 +159,8 @@ We will continue to update this list with the latest resources. If you find any 
 - [Ferrando2025]  Do I Know This Entity? Knowledge Awareness and Hallucinations in Language Models in *ICLR*, 2025.  [\[paper\]](https://arxiv.org/abs/2411.14257)[\[code\]](https://github.com/javiferran/sae_entities)
 
 
+- [Xue2025] UALIGN: Leveraging Uncertainty Estimations for Factuality Alignment on Large Language Models in *ACL*, 2025. [\[paper\]](https://arxiv.org/pdf/2412.11803)[\[code\]](https://github.com/AmourWaltz/UAlign)
+
 ### Alignment-Fine tuning
 
 - [Lee2022] Factuality Enhanced Language Models for Open-Ended Text Generation in *NeurIPS*, 2022. [\[paper\]](https://arxiv.org/abs/2206.04624)[\[code\]](https://github.com/nayeon7lee/FactualityPrompt)
