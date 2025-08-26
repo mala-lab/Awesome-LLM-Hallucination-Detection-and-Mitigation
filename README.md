@@ -65,7 +65,9 @@ We will continue to update this list with the latest resources. If you find any 
 
 - [Ji2024]  LLM Internal States Reveal Hallucination Risk Faced With a Query in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/pdf/2407.03282)[\[code\]](https://github.com/ziweiji/Internal_States_Reveal_Hallucination)
 
-- [Bouchard2025] Uncertainty Quantification for Language Models: A Suite of Black-Box, White-Box, LLM Judge, and Ensemble Scorers in *Arxiv*, 2025. \[paper\]](https://arxiv.org/abs/2504.19254)[\[code\]](https://github.com/cvs-health/uqlm)
+- [Bouchard2025] Uncertainty Quantification for Language Models: A Suite of Black-Box, White-Box, LLM Judge, and Ensemble Scorers in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/abs/2504.19254)[\[code\]](https://github.com/cvs-health/uqlm)
+
+- [Ma2025] Semantic Energy: Detecting LLM Hallucination Beyond Entropy in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/pdf/2508.14496)[\[code\]](https://github.com/MaHuanAAA/SemanticEnergy/blob/main/semantic_energy.ipynb)
 
 ### Consistency Measure 
 
