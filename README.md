@@ -102,6 +102,9 @@ We will continue to update this list with the latest resources. If you find any 
 
 - [Chen2024] INSIDE: LLMs' Internal States Retain the Power of Hallucination Detection in *ICLR*, 2024. [\[paper\]](https://arxiv.org/abs/2402.03744)[\[code\]](https://github.com/D2I-ai/eigenscore)
 
+- [Farquhar2024] Detecting Hallucinations in Large Language Models Using  Semantic Entropy in *Nature*,2024. [\[paper\]](https://www.nature.com/articles/s41586-024-07421-0)[\[code\]]()
+
+
 -  [Sriramanan2024] LLM-Check: Investigating Detection of Hallucinations in Large Language Models in *NeurIPS*, 2024. [\[paper\]](https://proceedings.neurips.cc/paper_files/paper/2024/file/3c1e1fdf305195cd620c118aaa9717ad-Paper-Conference.pdf)[\[code\]]()
 
 - [Wang2025]  Latent Space Chain-of-Embedding Enables Output-free LLM Self-Evaluation in *ICLR*, 2025. [\[paper\]](https://arxiv.org/abs/2410.13640)[\[code\]](https://github.com/Alsace08/Chain-of-Embedding) 
