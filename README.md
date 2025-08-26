@@ -95,6 +95,7 @@ We will continue to update this list with the latest resources. If you find any 
 
 - [Muhammed2025] SelfCheckAgent: Zero-Resource Hallucination Detection in Generative Large Language Models in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/pdf/2502.01812)[\[code\]](https://github.com/potsawee/selfcheckgpt) 
 
+- [Yang2025] Hallucination Detection in Large Language Models with Metamorphic Relations in *FSE*, 2025. [\[paper\]](https://arxiv.org/pdf/2502.15844)[\[code\]](https://github.com/zbybr/LLMhalu/tree/MetaQA-Open-Base) 
 
 
 ## Hallucination Mitigation 
