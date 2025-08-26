@@ -83,7 +83,9 @@ We will continue to update this list with the latest resources. If you find any 
 
 - [Kossen2024] Semantic Entropy Probes: Robust and Cheap Hallucination Detection in LLMs in *ICML*, 2024.  [\[paper\]](https://arxiv.org/pdf/2406.15927)[\[code\]](https://github.com/OATML/semantic-entropy-probes)
 
-- [Xu2024] Hallucination is Inevitable:An Innate Limitation of Large Language Models in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/pdf/2401.11817)[\[code\]]() 
+- [Xu2024] Hallucination is Inevitable:An Innate Limitation of Large Language Models in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/pdf/2401.11817)[\[code\]]()
+
+-  [Sriramanan2024] LLM-Check: Investigating Detection of Hallucinations in Large Language Models in *NeurIPS*, 2024. [\[paper\]](https://proceedings.neurips.cc/paper_files/paper/2024/file/3c1e1fdf305195cd620c118aaa9717ad-Paper-Conference.pdf)[\[code\]]()
 
 - [Niu2025] Robust Hallucination Detection in LLMs via Adaptive Token Selection in *Arxiv*, 2025.[\[paper\]](https://arxiv.org/abs/2504.07863)[\[code\]]()
 
