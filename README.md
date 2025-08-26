@@ -20,7 +20,9 @@ We will continue to update this list with the latest resources. If you find any 
 - [Chen2024] FactCHD: Benchmarking Fact-Conficting Hallucination Detection in *IJCAI*, 2024. [\[paper\]](https://www.ijcai.org/proceedings/2024/0687.pdf)[\[code\]](https://github.com/zjunlp/FactCHD)  
 
 - [Su2024] Unsupervised Real-Time Hallucination Detection based on the Internal States of Large Language Models in *Arxiv*, 2024.[\[paper\]](https://arxiv.org/pdf/2403.06448)[\[code\]](https://github.com/oneal2000/MIND/tree/main) 
-  
+
+- [Kossen2024] Semantic Entropy Probes: Robust and Cheap Hallucination Detection in LLMs in *Arxiv*, 2024.[\[paper\]](https://arxiv.org/pdf/2406.15927)[\[code\]](https://github.com/OATML/semantic-entropy-probes) 
+
 - [Ji2024] ANAH: Analytical Annotation of Hallucinations in Large Language Models in *ACL*, 2024. [\[paper\]](https://arxiv.org/abs/2405.20315)
 
 - [Simhi2024] Constructing Benchmarks and Interventions for Combating Hallucinations in LLMs in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2404.09971)[\[code\]](https://github.com/technion-cs-nlp/hallucination-mitigation)  
