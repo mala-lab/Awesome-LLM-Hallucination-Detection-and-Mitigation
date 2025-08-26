@@ -55,8 +55,6 @@ We will continue to update this list with the latest resources. If you find any 
 
 ### Uncertainty Analysis 
 
-- [Azaria2023] The internal state of an llm knows when it’s lying in *EMNLP findings*, 2023.  [\[paper\]](https://aclanthology.org/2023.findings-emnlp.68.pdf)[\[code\]](https://github.com/zthang/focus) 
-
 - [Zhang2023] Enhancing Uncertainty-Based Hallucination Detection with Stronger Focus in *EMNLP*, 2023. [\[paper\]](https://aclanthology.org/2023.emnlp-main.58v2.pdf)[\[code\]](https://github.com/zthang/focus) 
 
 - [Snyder2024] On Early Detection of Hallucinations in Factual Question Answering in *KDD*, 2024.[\[paper\]](https://arxiv.org/pdf/2312.14183)[\[code\]](https://github.com/amazon-science/llm-hallucinations-factual-qa)
@@ -85,7 +83,7 @@ We will continue to update this list with the latest resources. If you find any 
 
 - [Xu2024] Hallucination is Inevitable:An Innate Limitation of Large Language Models in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/pdf/2401.11817)[\[code\]]()
 
--  [Sriramanan2024] LLM-Check: Investigating Detection of Hallucinations in Large Language Models in *NeurIPS*, 2024. [\[paper\]](https://proceedings.neurips.cc/paper_files/paper/2024/file/3c1e1fdf305195cd620c118aaa9717ad-Paper-Conference.pdf)[\[code\]]()
+- [Niu2025] Robust Hallucination Detection in LLMs via Adaptive Token Selection in *Arxiv*, 2025.[\[paper\]](https://arxiv.org/abs/2504.07863)[\[code\]]()
 
 - [Sun2025] Why and How LLMs Hallucinate: Connecting the Dots with Subsequence Associations in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2504.12691)[\[code\]](https://github.com/sunyiyou/SAT) 
 
@@ -98,15 +96,16 @@ We will continue to update this list with the latest resources. If you find any 
 
 ### Hidden States Analysis
 
+- [Azaria2023] The internal state of an llm knows when it’s lying in *EMNLP findings*, 2023.  [\[paper\]](https://aclanthology.org/2023.findings-emnlp.68.pdf)[\[code\]](https://github.com/zthang/focus) 
+
 - [Chen2024] INSIDE: LLMs' Internal States Retain the Power of Hallucination Detection in *ICLR*, 2024. [\[paper\]](https://arxiv.org/abs/2402.03744)[\[code\]](https://github.com/D2I-ai/eigenscore)
+
+-  [Sriramanan2024] LLM-Check: Investigating Detection of Hallucinations in Large Language Models in *NeurIPS*, 2024. [\[paper\]](https://proceedings.neurips.cc/paper_files/paper/2024/file/3c1e1fdf305195cd620c118aaa9717ad-Paper-Conference.pdf)[\[code\]]()
 
 - [Wang2025]  Latent Space Chain-of-Embedding Enables Output-free LLM Self-Evaluation in *ICLR*, 2025. [\[paper\]](https://arxiv.org/abs/2410.13640)[\[code\]](https://github.com/Alsace08/Chain-of-Embedding) 
 
 - [Zhang2025] ICR Probe: Tracking Hidden State Dynamics for Reliable Hallucination Detection in LLMs in *ACL*, 2025. [\[paper\]](https://arxiv.org/pdf/2507.16488)[\[code\]]() 
 
-### Classifier Training
-
-- [Niu2025] Robust Hallucination Detection in LLMs via Adaptive Token Selection in *Arxiv*, 2025.[\[paper\]](https://arxiv.org/abs/2504.07863)[\[code\]]()
 
 
 ## Hallucination Mitigation 
