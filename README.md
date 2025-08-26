@@ -200,4 +200,6 @@ We will continue to update this list with the latest resources. If you find any 
 
 - [Bai2024] Hallucination of Multimodal Large Language Models: A Survey in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2404.18930)
 
+- [Chen2025] A Survey of Multimodal Hallucination Evaluation and Detection in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/pdf/2507.19024)
+
 
