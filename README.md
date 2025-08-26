@@ -101,6 +101,8 @@ We will continue to update this list with the latest resources. If you find any 
 
 - [Yang2025] Hallucination Detection in Large Language Models with Metamorphic Relations in *FSE*, 2025. [\[paper\]](https://arxiv.org/pdf/2502.15844)[\[code\]](https://github.com/zbybr/LLMhalu/tree/MetaQA-Open-Base) 
 
+- [Zhang2025] ICR Probe: Tracking Hidden State Dynamics for Reliable Hallucination Detection in LLMs in *ACL*, 2025. [\[paper\]](https://arxiv.org/pdf/2507.16488)[\[code\]]() 
+
 
 ## Hallucination Mitigation 
 
