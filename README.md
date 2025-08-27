@@ -206,7 +206,7 @@ We will continue to update this list with the latest resources. If you find any 
 
 - [Gao2023] Retrieval-augmented generation for large language models: A survey in *Arxiv*, 2023. [\[paper\]](https://arxiv.org/pdf/2312.10997)
 
-- [Huang2024] A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions in *TOIS*, 2024. [\[paper\]](https://arxiv.org/pdf/2410.11414)
+- [Huang2024] A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions in *TOIS*, 2024. [\[paper\]](https://arxiv.org/pdf/2311.05232)
 
 - [Ji2024] Survey of Hallucination in Natural Language Generation in *CSUR*, 2024.  [\[paper\]](https://arxiv.org/abs/2202.03629)
 
