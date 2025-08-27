@@ -53,7 +53,8 @@ We will continue to update this list with the latest resources. If you find any 
 - [Hu2024]  RefChecker: Reference-based Fine-grained Hallucination Checker and Benchmark for Large Language Models in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2405.14486)[\[code\]](https://github.com/amazon-science/RefChecker) 
 
 - [Zhang2025] CORRECT: Context- and Reference-Augmented Reasoning and Prompting for Fact-Checking, in *NAACL*, 2025. [\[paper\]](https://drive.google.com/file/d/1-2fieczt68O5SCFhhC4kOC7lp3D6oDrN/view)[\[code\]](https://github.com/cezhang01/correct) 
-,
+
+- [Lee2025] Enhancing Hallucination Detection via Future Context, in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2507.20546)[\[code\]]() 
 
 ### Uncertainty Analysis 
 
