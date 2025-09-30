@@ -86,7 +86,7 @@ We will continue to update this list with the latest resources. If you find any 
 
 - [Xu2024] Hallucination is Inevitable:An Innate Limitation of Large Language Models in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/pdf/2401.11817)[\[code\]]()
 
-- [Niu2025] Robust Hallucination Detection in LLMs via Adaptive Token Selection in *Arxiv*, 2025.[\[paper\]](https://arxiv.org/abs/2504.07863)[\[code\]]()
+- [Niu2025] Robust Hallucination Detection in LLMs via Adaptive Token Selection in *NeurIPS*, 2025.[\[paper\]](https://arxiv.org/abs/2504.07863)[\[code\]](https://github.com/mala-lab/HaMI)
 
 - [Sun2025] Why and How LLMs Hallucinate: Connecting the Dots with Subsequence Associations in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2504.12691)[\[code\]](https://github.com/sunyiyou/SAT) 
 
@@ -175,7 +175,6 @@ We will continue to update this list with the latest resources. If you find any 
 - [Sui2025] Bridging External and Parametric Knowledge: Mitigating Hallucination of LLMs with Shared-Private Semantic Synergy in Dual-Stream Knowledge in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/pdf/2506.06240)[\[code\]]()
 
 - [Ferrando2025]  Do I Know This Entity? Knowledge Awareness and Hallucinations in Language Models in *ICLR*, 2025.  [\[paper\]](https://arxiv.org/abs/2411.14257)[\[code\]](https://github.com/javiferran/sae_entities)
-
 
 - [Xue2025] UALIGN: Leveraging Uncertainty Estimations for Factuality Alignment on Large Language Models in *ACL*, 2025. [\[paper\]](https://arxiv.org/pdf/2412.11803)[\[code\]](https://github.com/AmourWaltz/UAlign)
 
