@@ -1,4 +1,4 @@
- # Awesome-LLM-Hallucination-Detection-and-Mitigation
+ # Awesome-Hallucination-Detection-and-Mitigation
 
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
