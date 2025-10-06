@@ -114,6 +114,11 @@ We will continue to update this list with the latest resources. If you find any 
 - [Zhang2025] ICR Probe: Tracking Hidden State Dynamics for Reliable Hallucination Detection in LLMs in *ACL*, 2025. [\[paper\]](https://arxiv.org/pdf/2507.16488)[\[code\]]() 
 
 
+###  RL Reasoning
+
+- [Su2025] Learning to Reason for Hallucination Span Detection in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2510.02173)[\[code\]]() 
+
+
 
 ## Hallucination Mitigation 
 
