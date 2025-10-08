@@ -160,7 +160,12 @@ We will continue to update this list with the latest resources. If you find any 
 
 - [Yang2025] Nullu: Mitigating Object Hallucinations in Large Vision-Language Models via HalluSpace Projection in *CVPR*, 2025. [\[paper\]](https://arxiv.org/abs/2412.13817)[\[code\]](https://github.com/Ziwei-Zheng/Nullu) 
 
-- [Wan2025] ONLY:One-Layer Intervention Sufficiently Mitigates Hallucinations in Large Vision-Language Model in *ICCV*, 2025. [\[paper\]]()[\[code\]]() 
+- [Wan2025] ONLY:One-Layer Intervention Sufficiently Mitigates Hallucinations in Large Vision-Language Model in *ICCV*, 2025. [\[paper\]](https://arxiv.org/abs/2507.00898)[\[code\]]() 
+
+- [Chang2025]  Monitoring Decoding: Mitigating Hallucination via Evaluating the  Factuality of Partial Response during Generation in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2503.03106)[\[code\]]() 
+
+- [Wang2025] Image Tokens Matter: Mitigating Hallucination in Discrete Tokenizer-based Large Vision-Language Models via Latent Editing  in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2505.21547)[\[code\]](https://github.com/weixingW/CGC-VTD/tree/main) 
+
 
 
 ### External Knowledge 
@@ -186,7 +191,7 @@ We will continue to update this list with the latest resources. If you find any 
 - [Cheng2025]  Small Agent Can Also Rock! Empowering Small Language Models as Hallucination Detector in *EMNLP*, 2024. [\[paper\]](https://aclanthology.org/2024.emnlp-main.809.pdf)[\[code\]](https://github.com/RUCAIBox/HaluAgent)
 
 
-### Alignment-Fine tuning
+### Alignment-Fine-tuning
 
 - [Lee2022] Factuality Enhanced Language Models for Open-Ended Text Generation in *NeurIPS*, 2022. [\[paper\]](https://arxiv.org/abs/2206.04624)[\[code\]](https://github.com/nayeon7lee/FactualityPrompt)
 
